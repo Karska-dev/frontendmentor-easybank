@@ -29,7 +29,6 @@
     }
 
     &::before {
-
       @include breakpoint-up(large) {
         content: "";
         position: absolute;
@@ -54,7 +53,6 @@
       background-repeat: no-repeat;
       background-position: center bottom;
 
-
       @include breakpoint-up(medium) {
         background-size: 52%;
       }
@@ -76,23 +74,6 @@
       flex: 2;
       order: 1;
       text-align: left;
-    }
-
-    h1 {
-      font-weight: 300;
-      font-size: 2.31 rem;
-      line-height: 1.15;
-      color: $darkBlue;
-      margin-bottom: 1.5rem;
-
-      @include breakpoint-up(large) {
-        font-size: $font-xlg;
-      }
-    }
-
-    p {
-      line-height: 1.5;
-      margin-bottom: 2.25rem;
     }
   }
 }
