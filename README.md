@@ -1,3 +1,7 @@
+This code is made using tutorial - [codercoder tutorial](https://www.youtube.com/playlist?list=PLUWqFDiirlsuYscECzks6zIZWr_Cfcx9k)
+
+live site is here - https://karska-dev.github.io/frontendmentor-easybank/
+
 # frontendmentor-easybank
 Intermediate challenge from frontendmentor.io - Easybank landing page
 
